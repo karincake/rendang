@@ -6,7 +6,7 @@ require (
 	github.com/google/uuid v1.6.0
 	github.com/karincake/dodol v0.0.1
 	github.com/karincake/lepet v0.0.1
-	github.com/karincake/serabi v0.0.11
+	github.com/karincake/serabi v0.0.13-a
 )
 
 require (
