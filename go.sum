@@ -6,7 +6,7 @@ github.com/karincake/lepet v0.0.1 h1:eq/cwn5BBg0jWZ1c/MmvhFIBma0zBpVs2LwkfDOncy4
 github.com/karincake/lepet v0.0.1/go.mod h1:U84w7olXO3BPJw2Hu6MBonFmJmPKaFjtyAj1HTu3z1A=
 github.com/karincake/semprit v0.0.3 h1:znleGRu73xrHk6a70+jRQgVh9VF3TAhttQz6vfgNdyM=
 github.com/karincake/semprit v0.0.3/go.mod h1:nLtNmWlHkxMKG0IMzqnnfkn1L/RVYGXVW3LchfYQMu8=
-github.com/karincake/serabi v0.0.13-a h1:gVEUfmIe+sAX7lgsP/L0vZq3+GzyWixiU7GPzLuwHmk=
-github.com/karincake/serabi v0.0.13-a/go.mod h1:GcnPBWb+UotDxvb/a2CKwourCEyVIL4P9+YxVmZ5zgk=
+github.com/karincake/serabi v0.0.13-b h1:YEdFjeCbq/wUoGplmlBJy3rEBwABLJkktGzG5n45XT0=
+github.com/karincake/serabi v0.0.13-b/go.mod h1:GcnPBWb+UotDxvb/a2CKwourCEyVIL4P9+YxVmZ5zgk=
 golang.org/x/exp v0.0.0-20240613232115-7f521ea00fb8 h1:yixxcjnhBmY0nkL253HFVIm0JsFHwrHdT3Yh6szTnfY=
 golang.org/x/exp v0.0.0-20240613232115-7f521ea00fb8/go.mod h1:jj3sYF3dwk5D+ghuXyeI3r5MFf+NT2An6/9dOA95KSI=
