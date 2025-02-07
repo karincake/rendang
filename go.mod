@@ -4,9 +4,9 @@ go 1.22.1
 
 require (
 	github.com/google/uuid v1.6.0
-	github.com/karincake/dodol v0.0.1
+	github.com/karincake/dodol v0.1.0-b
 	github.com/karincake/lepet v0.0.1
-	github.com/karincake/serabi v0.0.14
+	github.com/karincake/serabi v0.1.0-b
 )
 
 require (
